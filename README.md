@@ -8,11 +8,6 @@ This project is a clone of the official UUCMS website, designed to provide a sim
 - **Desktop Mode**: While the site is functional on mobile devices, it is best viewed in desktop mode for a complete and enhanced experience.
 - **User-Friendly Interface**: The layout is intuitive and easy to navigate, mimicking the original UUCMS design.
 
-## Getting Started
-To view the project:
-1. Clone the repository.
-2. Open `index.html` in your preferred web browser.
-3. For the best experience, use a desktop browser or enable desktop mode on your mobile device.
 
 ## Technology Stack
 - HTML
