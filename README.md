@@ -14,8 +14,7 @@ This project is a clone of the official UUCMS website, designed to provide a sim
 - CSS
 - JavaScript (if applicable)
 
-## Screenshots
-*(Include screenshots demonstrating both desktop and mobile views here)*
+
 
 ## Acknowledgments
 Special thanks to the original UUCMS team for their design inspiration.
