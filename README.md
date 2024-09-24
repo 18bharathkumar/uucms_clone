@@ -12,7 +12,7 @@ This project is a clone of the official UUCMS website, designed to provide a sim
 ## Technology Stack
 - HTML
 - CSS
-- JavaScript (if applicable)
+- Bootstrap
 
 
 
