@@ -27,3 +27,5 @@ Special thanks to the original UUCMS team for their design inspiration.
 
 ## License
 This project is not affiliated with the UUCMS website and is intended for educational purposes only.
+## Offical UUCMS web-site link
+https://uucms.karnataka.gov.in/Login/Index
